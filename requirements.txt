@@ -1,0 +1,6 @@
+# requirements.txt for Tkinter-based calculator application
+
+# NumPy is a library for numerical and mathematical computations.
+# It provides functions for trigonometric (sin, cos, tan) and logarithmic calculations,
+# which are used in this calculator application.
+numpy==1.24.2
